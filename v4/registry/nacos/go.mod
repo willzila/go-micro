@@ -1,4 +1,4 @@
-module github.com/willzila/go-micro/plugins/registry/nacos/v4
+module github.com/willzila/go-micro-plugin/registry/nacos/v4
 
 go 1.17
 
